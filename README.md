@@ -7,14 +7,14 @@
 <br />
 <br />
 
-你好！我是一名来自中国湖南邵阳的25岁程序员。热爱编程，享受创造的过程，不断学习新技术。
+Hello! I’m a 25-year-old programmer from Shaoyang, Hunan, China. Passionate about coding, I enjoy the creative process and continuously learning new technologies.
 
-- 🔭 我正在开发一个基于 Electron + Vue 3 的 API 测试工具
-- 🌱 正在学习 TypeScript 和 Electron
-- 💬 可以和我讨论任何技术相关的话题
-- ⚡ 座右铭：学无止境，编码不止
+- 🔭 I’m currently working on an API testing tool built with Electron + Vue 3
+- 🌱 Learning TypeScript and Electron
+- 💬 Open to discussing any tech-related topics
+- ⚡ Motto: "Learning never stops, neither does coding."
 
-**技术栈:**  
+**Tech Stack:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -32,7 +32,7 @@
 
 ---
 
-### 🚀 我的项目
+### 🚀 My Projects
 
 <a href="https://github.com/SpiritMark/LBS-Test">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SpiritMark&repo=LBS-Test&theme=material-palenight" />
@@ -40,9 +40,9 @@
 
 ---
 
-### 📫 联系我
+### 📫 Contact Me
 
 - Github: [@SpiritMark](https://github.com/SpiritMark)
-- Email: [你的邮箱]
+- Email: [Your Email]
 
-> 生命不息，编码不止
+> "Life never stops, neither does coding."
